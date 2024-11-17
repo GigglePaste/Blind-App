@@ -1,0 +1,2 @@
+1) Pytesseract : https://github.com/tesseract-ocr/tesseract/releases/tag/5.5.0
+2) Java        : https://www.java.com/download/ie_manual.jsp
